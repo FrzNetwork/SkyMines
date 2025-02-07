@@ -4,3 +4,11 @@ main: io.github.lianjordaan.skyMines.SkyMines
 api-version: '1.21'
 authors: [ Lian ]
 website: https://lianjordaan.co.za/
+commands:
+    skymines:
+        description: Manage your mines
+        usage: /skymines <add/delete/give> <mineID> | /skymines <list/reload/help>
+permissions:
+    skymines.command:
+        description: Access the skymines command
+        default: op

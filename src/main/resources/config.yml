@@ -1,3 +1,7 @@
 # Whether to limit all block breaks with within mines.
 # Default: true
 restrict-block-breaks: true
+
+# Whether players in creative mode bypass the block break restrictions.
+# Default: true
+creative-bypass-mine-restrictions: true

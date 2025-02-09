@@ -1,5 +1,6 @@
 package io.github.lianjordaan.skyMines.events;
 
+import io.github.lianjordaan.skyMineCore.SkyMineCore;
 import io.github.lianjordaan.skyMines.SkyMines;
 import io.github.lianjordaan.skyMines.mines.MineManager;
 import org.bukkit.Bukkit;
